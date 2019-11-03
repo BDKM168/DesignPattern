@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <!--RefinedAbstraction-->
+    <className>designpatterns.bridge.BMPImage</className> 
+    <!--ConcreteImplementor-->
+    <className>designpatterns.bridge.LinuxImp</className>
+</config>
